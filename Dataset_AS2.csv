@@ -1,0 +1,12 @@
+Age,Glasses,Weight,Bachelor_GPA,Sex,ML_Experience,Programming,CT663_Grade
+39,No,88,2.94,Male,0,80,B+
+28,Yes,72,3.68,Male,0,50,A
+39,No,110,3.63,Male,0,10,B
+44,No,78,3.45,Male,80,70,A
+27,Yes,57,2.40,Female,0,50,B
+34,Yes,72,3.24,Male,70,60,A
+27,Yes,84,3.25,Male,0,74,B+
+45,Yes,65,2.36,Male,0,70,B+
+28,No,79,3.50,Female,0,75,B
+25,No,55,2.50,Female,0,70,B
+26,Yes,67,3.10,Male,30,80,A
